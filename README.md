@@ -3,4 +3,6 @@
 
 首先安装依赖库pip3 install -r requirements.txt -t ./
 
+填入你的cookie，如果需要tg推送就填你的TOKEN
+
 然后放到阿里云云函数之类的设置一个触发器即可(记得服务器区域选国外）
